@@ -22,6 +22,7 @@
 { "type": "Feature", "properties": { "comments": "Dentistry", "capacity": null, "zone": "Dalhousie University - Sexton Campus" }, "geometry": { "type": "Point", "coordinates": [ -63.584834633581359, 44.638567504173913 ] } },
 { "type": "Feature", "properties": { "comments": "Tupper", "capacity": null, "zone": "Dalhousie University - Sexton Campus" }, "geometry": { "type": "Point", "coordinates": [ -63.584176870242608, 44.639764269560146 ] } },
 { "type": "Feature", "properties": { "comments": "Life Sciences Research Institute", "capacity": null, "zone": "Dalhousie University - Sexton Campus" }, "geometry": { "type": "Point", "coordinates": [ -63.582877436432653, 44.640016102035077 ] } },
-{ "type": "Feature", "properties": { "comments": "Prince Hall", "capacity": null, "zone": "King's College" }, "geometry": { "type": "Point", "coordinates": [ -63.595225204410866, 44.637733759093017 ] } }
+{ "type": "Feature", "properties": { "comments": "Prince Hall", "capacity": null, "zone": "King's College" }, "geometry": { "type": "Point", "coordinates": [ -63.595225204410866, 44.637733759093017 ] } },
+{ "type": "Feature", "properties": { "comments": "Mona Campbell Building", "capacity": null, "zone": "Dalhousie University - Sexton Campus" }, "geometry": { "type": "Point", "coordinates": [ -63.59093056556177, 44.638905078421857 ] } }
 ]
 }
